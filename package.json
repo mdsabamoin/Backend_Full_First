@@ -1,0 +1,17 @@
+{
+  "name": "backendfull",
+  "version": "1.0.0",
+  "description": "Chai aur backend",
+  "keywords": [
+    "JavaScript",
+    "and",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Md Saba Moin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
